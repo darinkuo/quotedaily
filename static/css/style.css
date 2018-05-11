@@ -1,0 +1,23 @@
+body {
+  background: #141e30;
+  background: -webkit-linear-gradient(to right, #141e30, #243b55);
+  background: linear-gradient(to right, #141e30 0%, #243b55 100%);
+}
+
+.div01 {
+	width:100%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  text-align:center;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#q01 {
+	color: white;
+  color: #FFFAF0;
+	text-align: center;
+  font-weight: bold;
+  font-family: arial;
+}
