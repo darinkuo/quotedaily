@@ -1,4 +1,4 @@
-[!alt text] (https://raw.githubusercontent.com/darinkuo/quotedaily/master/static/favicon.ico)
+![image of the website] (https://raw.githubusercontent.com/darinkuo/quotedaily/master/static/favicon.ico)
 # quotedaily
 Daily Inspiration Quote Site
 >A simple web page that provides a random inspirational quote every 12 hours.
