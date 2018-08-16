@@ -1,8 +1,7 @@
-![image of the website] (https://raw.githubusercontent.com/darinkuo/quotedaily/master/static/favicon.ico)
 # quotedaily
-Daily Inspiration Quote Site
 >A simple web page that provides a random inspirational quote every 12 hours.
 
+![website screenshot](https://i.imgur.com/YLZGg8F.png)
 ### What is quotedaily?
 >Quotedaily is my first step into web development utlizing the Python Flask framework.
 
