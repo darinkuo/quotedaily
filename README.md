@@ -7,6 +7,6 @@
 
 ### What I've learned
 >This side project has taught me some foundational knowledge that I plan to implement in later projects and schoolwork.
-*A rudimentary knowledge of HTML
-*conceptualization of backend web frameworks
-*javascript functions
+- A rudimentary knowledge of HTML
+- conceptualization of backend web frameworks
+- javascript functions
